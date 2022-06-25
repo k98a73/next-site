@@ -2,7 +2,6 @@ import Head from "next/head";
 import Link from "next/link";
 import useSWR from "swr";
 
-import Styles from "../styles/Home.module.css";
 import Content from "./components/content";
 import Header from "./components/header";
 
